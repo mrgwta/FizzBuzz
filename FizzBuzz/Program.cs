@@ -10,10 +10,9 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            // Prepare
-            // Plan
-            // Perform
-            // Perfect
+            // Variable Declaration & Initialization
+            var counter = 0;
+            var display = "";
         }
     }
 }
