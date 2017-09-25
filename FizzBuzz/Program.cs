@@ -10,6 +10,10 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
+            // Prepare
+            // Plan
+            // Perform
+            // Perfect
         }
     }
 }
